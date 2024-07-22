@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Hubbali;
+    src: url(Hubballi/Hubballi-Regular.ttf);
+}
+.huba-normal{
+    font-family: 'Huballi', Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+.huba-thin{
+    font-family: 'Huballi', Arial, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}

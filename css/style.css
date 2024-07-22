@@ -1,0 +1,58 @@
+.gray{
+    color:rgb(169, 169, 169)
+}
+.bg-image{
+    background-image: url("../03.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bg-image1{
+    background-image: url("../04.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bg-gray{
+    background-color: rgb(57, 57, 57);
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: 100px ;
+    width: 395px;
+    height: auto;
+}
+.bg-image2{
+    background-image: url("../05.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bg-white{
+    background-color: rgb(247, 246, 246);
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: 100px ;
+    width: auto;
+    height: auto;
+}
+
+.fs-11{
+    font-size: 13px;
+}
+.fs-10{
+    font-size: 10px;
+}
+.bg-ci{
+    background-color: red;
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+}
+
+
